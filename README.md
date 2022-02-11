@@ -1,2 +1,4 @@
 # ExPatch
- Exploit / Backdoor patcher / preventer for gmod. 
+ Exploit guard for GMOD 
+ 
+ Drag and drop into lua/autorun
